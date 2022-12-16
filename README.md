@@ -2,7 +2,9 @@
 
 Example for integrating a basic contact form with Netlify’s form handling feature (based on the [default Gatsby starter](https://github.com/gatsbyjs/gatsby-starter-default))
 
-Demo: https://gateway.netlify.com
+Demo: 
+
+https://ampapk.netlify.com
 
 ## Deploy
 
@@ -10,7 +12,7 @@ Demo: https://gateway.netlify.com
 
 ## reCAPTCHA
 
-This example site uses [react-google-recaptcha](https://github.com/dozoisch/react-google-recaptcha) to render the reCAPTCHA widget.
+This Example site uses [react-google-recaptcha](https://github.com/dozoisch/react-google-recaptcha) to render the reCAPTCHA widget.
 
 To make the reCAPTCHA example work in your own copy of this site, you’ll need to do the following:
 1. [Sign up for a reCAPTCHA API key pair](http://www.google.com/recaptcha/admin) for your site.
