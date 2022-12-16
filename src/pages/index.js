@@ -13,8 +13,9 @@ export default class Index extends React.Component {
 
         <ul>
           <li><Link to="/contact/">Contact</Link></li>
+          <li><Link to="/terms/">Terms Of Use</Link></li>
           <li><Link to="/file-upload/">Sign Up</Link></li>
-          <li><Link to="/recaptcha/">Privacy Policy</Link></li>
+          <li><Link to="/privacy/">Privacy Policy</Link></li>
         </ul>
       </div>
     );
