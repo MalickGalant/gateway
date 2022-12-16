@@ -14,9 +14,9 @@ export default class Template extends React.Component {
     return (
       <div>
         <Helmet
-          title="Gatsby Default Starter"
+          title="Gatsby Gateway"
           meta={[
-            { name: "description", content: "Sample" },
+            { name: "description", content: "Gateway" },
             { name: "keywords", content: "sample, something" },
           ]}
         />
@@ -41,11 +41,12 @@ export default class Template extends React.Component {
                   textDecoration: "none",
                 }}
               >
-                Gatsby
+                Gateway
               </Link>
             </h1>
           </div>
         </div>
+
         <div
           style={{
             margin: `0 auto`,
@@ -56,6 +57,7 @@ export default class Template extends React.Component {
         >
           {this.props.children()}
         </div>
+
       </div>
     )
   }
