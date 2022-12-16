@@ -16,8 +16,8 @@ export default class Template extends React.Component {
         <Helmet
           title="Gatsby Gateway"
           meta={[
-            { name: "description", content: "Gateway" },
-            { name: "keywords", content: "sample, something" },
+            { name: "description", content: "Start Learning AMP Documents" },
+            { name: "keywords", content: "How To Build Amp Pages, Google search something" },
           ]}
         />
         <div
@@ -41,7 +41,7 @@ export default class Template extends React.Component {
                   textDecoration: "none",
                 }}
               >
-                Gateway
+                AMP BLOG
               </Link>
             </h1>
           </div>
