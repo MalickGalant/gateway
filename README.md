@@ -1,8 +1,8 @@
-# Integrating Netlify Form
+# Integrating Koo
 
-Example for integrating a basic contact form with Netlify’s form handling feature (based on the [default Gatsby starter](https://github.com/gatsbyjs/gatsby-starter-default))
+Best for integrating a basic contact form with Netlify’s form handling feature (based on the [default Gatsby starter](https://github.com/gatsbyjs/gatsby-starter-default))
 
-Demo: 
+Trial App: 
 
 https://ampapk.netlify.com
 
@@ -10,7 +10,7 @@ https://ampapk.netlify.com
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/imorente/gatsby-netlify-form-example)
 
-## reCAPTCHA
+## RECAPTCHA
 
 This Example site uses [react-google-recaptcha](https://github.com/dozoisch/react-google-recaptcha) to render the reCAPTCHA widget.
 
