@@ -6,7 +6,7 @@ export default class Index extends React.Component {
   render() {
     return (
       <div>
-        <h1>Welcome!</h1>
+        <h1>Koo!</h1>
         <p>
           This is an example site integrating Netlify’s form handling with Gatway
         </p>
