@@ -6,7 +6,7 @@ export default class Index extends React.Component {
   render() {
     return (
       <div>
-        <h1>Privacy Policy</h1>
+        <h3>Privacy Policy</h3>
         
         <p>
          This privacy policy is for this website www.tuneyourteam.com and served by Beautify LV and governs the privacy of its users who choose to use it.
@@ -16,7 +16,8 @@ export default class Index extends React.Component {
          This website complies to all US national laws and requirements for user privacy.
         </p>
          
-       <h1>Use of Cookies</h1>
+       <h2>Use of Cookies</h2>
+
        <p>
         This website uses cookies to better the users experience while visiting the website.
 
